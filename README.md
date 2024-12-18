@@ -39,11 +39,22 @@
 - [ ] Set up GitHub Project Board with columns: **To Do**, **In Progress**, **Review/Testing**, **Done**.
 - [ ] Write an initial README.md with project goals and structure.
 
-### 2. Static Front-End Development (Weeks 2-3)
+### 2. Back-End Implementation (Weeks 2-3)
 
 #### Tasks:
 
-## (tasks might change depending on the website structure)
+- [ ] Set up server with Express or Django.
+- [ ] Create database schema:
+  - [ ] Tables/collections for real estate listings.
+  - [ ] Tables/collections for user accounts.
+- [ ] Develop API endpoints:
+  - [ ] GET: Fetch listings.
+  - [ ] POST: Add new listings (admin functionality).
+  - [ ] Filter listings by price, location, etc.
+
+### 3. Static Front-End Development (Weeks 4-5)
+
+#### Tasks:
 
 - [ ] Build navigation bar:
   - [ ] Logo placement.
@@ -56,7 +67,7 @@
   - [ ] Social media links.
 - [ ] Style pages for mobile-first design and responsiveness.
 
-### 3. Dynamic Front-End Features (Weeks 4-5)
+### 4. Dynamic Front-End Features (Weeks 6-7)
 
 #### Tasks:
 
@@ -65,19 +76,6 @@
   - [ ] Create a search bar.
   - [ ] Display mock search results dynamically.
 - [ ] Develop an interactive map (e.g., Google Maps API integration).
-
-### 4. Back-End Implementation (Weeks 6-7)
-
-#### Tasks:
-
-- [ ] Set up server with Express or Django.
-- [ ] Create database schema:
-  - [ ] Tables/collections for real estate listings.
-  - [ ] Tables/collections for user accounts.
-- [ ] Develop API endpoints:
-  - [ ] GET: Fetch listings.
-  - [ ] POST: Add new listings (admin functionality).
-  - [ ] Filter listings by price, location, etc.
 
 ### 5. Testing and Deployment (Weeks 8-9)
 
