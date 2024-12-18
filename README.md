@@ -35,9 +35,9 @@
 ### 1. Setup and Planning (Week 1)
 
 - [ ] Research thevillages.com structure, features, and functionality.
-- [ ] Create GitHub repository.
-- [ ] Set up GitHub Project Board with columns: **To Do**, **In Progress**, **Review/Testing**, **Done**.
-- [ ] Write an initial README.md with project goals and structure.
+- [x] Create GitHub repository.
+- [x] Set up GitHub Project Board with columns: **To Do**, **In Progress**, **Review/Testing**, **Done**.
+- [x] Write an initial README.md with project goals and structure.
 
 ### 2. Back-End Implementation (Weeks 2-3)
 
