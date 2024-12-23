@@ -38,7 +38,9 @@
 - [x] Set up GitHub Project Board with columns: **To Do**, **In Progress**, **Review/Testing**, **Done**.
 - [x] Write an initial README.md with project goals and structure.
 - [ ] Research thevillages.com structure, features, and functionality.
-- [ ] Research what to learn.
+- Research and learning:
+- [ ] Docker.
+- [ ] PostgreSQL and database design.
 
 ### 2. Back-End Implementation (Weeks 2-3)
 
