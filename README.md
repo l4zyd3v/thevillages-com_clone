@@ -25,7 +25,7 @@
 
 ### Deployment:
 
-- Hosting: Vercel, Netlify (for front-end), or AWS/DigitalOcean (for full-stack).
+- Hosting: containerized on DigitalOcean
 - Version Control: GitHub
 
 ---
@@ -40,7 +40,7 @@
 - [ ] Research thevillages.com structure, features, and functionality.
 - Research and learning:
 - [ ] Docker.
-- [ ] PostgreSQL and database design.
+- [ ] Look into PostgreSQL and database design.
 
 ### 2. Back-End Implementation (Weeks 2-3)
 
@@ -49,6 +49,7 @@
 - [ ] Set up server with Node and Express.
 - [ ] use postgresql for database:
 - [ ] Create database schema:
+  - [ ] Tables/collections for generic data like information text.
   - [ ] Tables/collections for real estate listings.
   - [ ] Tables/collections for user accounts.
 - [ ] Develop API endpoints:
